@@ -1,5 +1,6 @@
 package Sobrecarga.Quad;
 
+
 public class Quad {
 
     public static double area(double lado){
@@ -16,5 +17,16 @@ public class Quad {
 
         return ((baseMaior + baseMenor)*altura)/2;
 
+    
+
     }  
+    public static void xpto(){
+        System.out.println("Antes");
+        return;
+    }
+ 
+    public static double abc(){
+        return 1.6;
+    }
+    
 }
