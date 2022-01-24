@@ -1,4 +1,5 @@
 package PrimeiroPoject;
+
 public class PrimeiroPrograma{
     public static void main(String[] args) {
         int a = 22;
