@@ -22,6 +22,7 @@ public class Cosoantes {
                     (letra.equalsIgnoreCase("u"))) {
                     consoantes[count] = letra;
                     quantidadeConsoantes++;
+                    System.out.println(quantidadeConsoantes);
                 }
 
                 count++;
