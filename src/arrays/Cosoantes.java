@@ -2,6 +2,7 @@ package src.arrays;
 
 import java.util.Scanner;
 
+
 public class Cosoantes {
 
     public static void main(String[] args) {
