@@ -3,7 +3,6 @@ package Classe;
 
 class Carro {
         
-
     String cor;
     String modelo;
     int capacidadeTanque;
