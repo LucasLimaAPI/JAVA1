@@ -1,0 +1,161 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora.Calculadora",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Calculadora.CalculadoraAtt.Main",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalcDeMedia",
+            "request": "launch",
+            "mainClass": "CalculosDeMedia.CalcDeMedia",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RodarAplicacao",
+            "request": "launch",
+            "mainClass": "Classe.RodarAplicacao",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(1)",
+            "request": "launch",
+            "mainClass": "Operadores.Main",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(2)",
+            "request": "launch",
+            "mainClass": "Operadores.out.Main",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeiroPrograma",
+            "request": "launch",
+            "mainClass": "PrimeiroPoject.PrimeiroPrograma",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(3)",
+            "request": "launch",
+            "mainClass": "Sobrecarga.Main",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(4)",
+            "request": "launch",
+            "mainClass": "Sobrecarga.Quad.Main",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio2",
+            "request": "launch",
+            "mainClass": "exercitando.aritimeticos.exercicio2",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cast",
+            "request": "launch",
+            "mainClass": "exercitando.casting.Cast",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicios",
+            "request": "launch",
+            "mainClass": "exercitando.exercicios",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aleatorios",
+            "request": "launch",
+            "mainClass": "src.arrays.Aleatorios",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Consoantes",
+            "request": "launch",
+            "mainClass": "src.arrays.Consoantes",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ordemInversa",
+            "request": "launch",
+            "mainClass": "src.arrays.ordemInversa",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch fatorial",
+            "request": "launch",
+            "mainClass": "src.loops.fatorial",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch maiorEmenor",
+            "request": "launch",
+            "mainClass": "src.loops.maiorEmenor",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch nomeEidade",
+            "request": "launch",
+            "mainClass": "src.loops.nomeEidade",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch notas",
+            "request": "launch",
+            "mainClass": "src.loops.notas",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch parEimpar",
+            "request": "launch",
+            "mainClass": "src.loops.parEimpar",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch tabuada",
+            "request": "launch",
+            "mainClass": "src.loops.tabuada",
+            "projectName": "JAVA1_f77c481a"
+        }
+    ]
+}
