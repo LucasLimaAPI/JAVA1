@@ -12,7 +12,6 @@ public class Main {
         Conta cc = new ContaCorrente(lucas);
         Conta cp = new Poupança(lucas);
         cc.transferir(100, cp);
-
         cc.imprimirExtrato();
         cp.imprimirExtrato();
 

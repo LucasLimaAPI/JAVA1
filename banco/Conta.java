@@ -5,18 +5,18 @@ import java.util.Scanner;
 public  abstract class Conta implements IAconta{
 
     private static final int AGENCIA_PADRAO = 1;
-
-    private static final double Pix = 0;
-
+    
+    
     private static int SEQUENCIAL = 1;
-
+    
+    protected static final double Pix = 0;
     protected int agencia;
     protected int numero;
     protected double saldo;
     protected Cliente cliente;  
     
     
-
+    
     public Conta(Cliente cliente) {
         this.agencia = AGENCIA_PADRAO;
         this.numero = SEQUENCIAL++;
@@ -40,15 +40,15 @@ public  abstract class Conta implements IAconta{
         this.sacar(valor);
         contaDestino.depositar(valor);
         contaDestino.depositar(Pix);
-
-            try (Scanner scan = new Scanner(System.in)) {
-                double pix;
-                System.out.print("Digite o Valor Pix:");
-                pix= scan.nextDouble();
-                System.out.println(pix);
-                System.out.print("*****Enviando para conta corrente******");
-            }
-            System.out.println();  
+        
+        try (Scanner scan = new Scanner(System.in)) {
+            double pix;
+            System.out.print("Digite o Valor Pix:");
+            pix= scan.nextDouble();
+            System.out.println(pix);
+            System.out.print("*****Enviando para conta corrente******");
+        }
+        System.out.println(valor+Pix);  
 
         }
         
