@@ -45,7 +45,7 @@ public  abstract class Conta implements IAconta{
             double pix;
             System.out.print("Digite o Valor Pix:");
             pix= scan.nextDouble();
-            System.out.println(pix);
+            System.out.println(pix + valor);
             System.out.print("*****Enviando para conta corrente******");
         }
         System.out.println(valor+Pix);  

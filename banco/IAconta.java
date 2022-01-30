@@ -8,6 +8,8 @@ public interface IAconta {
     
     void transferir(double valor , Conta contaDestino);
 
+    void pix(Double valor , Conta contaDestino);
+
     void imprimirExtrato();
 
     

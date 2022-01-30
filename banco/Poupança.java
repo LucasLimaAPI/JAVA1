@@ -13,6 +13,11 @@ public class Poupança extends Conta {
         super.imprimirInfosComuns();       
       
     }
+
+    @Override
+    public void pix(Double valor, Conta contaDestino) {
+        
+    }
     
 
 }
