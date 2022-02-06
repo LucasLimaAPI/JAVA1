@@ -9,7 +9,7 @@ public class Aleatorios {
 
         int[] numerosAleatórios = new int[20];
 
-        for(int i =0; i <numerosAleatórios.length; i++) {
+        for(int i= 0 ; i < numerosAleatórios.length; i++) {
        int numero= random.nextInt(100);
        numerosAleatórios[i]= numero;
         }
