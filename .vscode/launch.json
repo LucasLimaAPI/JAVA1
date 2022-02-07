@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Principal",
+            "request": "launch",
+            "mainClass": "Estudos.jogo.Principal",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch metodo",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.metodos.metodo",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrizes",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.Vetores.Matrizes",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.Vetores.Arrays",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch For",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.ferramentas.For",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Do_While",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.ferramentas.Do_While",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch While",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.ferramentas.While",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Switch_case",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.ferramentas.Switch_case",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch if_else_v2",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.ferramentas.if_else_v2",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch if_else",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.ferramentas.if_else",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Op_comparativos",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.comparativos.Op_comparativos",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
             "name": "Launch calc_v2",
             "request": "launch",
             "mainClass": "Estudos.Logica_Pogramacao.entrada_saida.calc_v2",
