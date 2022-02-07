@@ -7,7 +7,7 @@ public class Aleatorios {
     public static void main(String[] args) {
         Random random = new Random();
 
-        int[] numerosAleatórios = new int[20];
+        int[] numerosAleatórios = new int[100];
 
         for(int i= 0 ; i < numerosAleatórios.length; i++) {
        int numero= random.nextInt(100);

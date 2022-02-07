@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch calc_v2",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.entrada_saida.calc_v2",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch calc",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.entrada_saida.calc",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Entrada_saida_dados_v2",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.entrada_saida.Entrada_saida_dados_v2",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Entrada_saida_dados",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.entrada_saida.Entrada_saida_dados",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sequencia_escape",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.Escape.Sequencia_escape",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch primitivos",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.numericos.primitivos",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Logica",
+            "request": "launch",
+            "mainClass": "Estudos.Logica_Pogramacao.Logica",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
             "name": "Launch Test",
             "request": "launch",
             "mainClass": "dio.Test",
