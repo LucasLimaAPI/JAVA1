@@ -74,8 +74,14 @@ public class Caneta {
 
 
 
-
     public void status() {
+        for(int i = 0 ; i <=3 ; i++){
+            System.out.print(" "+i+"...");
+            if(i == 3){
+                System.out.println(" Aceitando pagamento! ");
+            }
+        }
+
         System.out.println("\t\t|=======SOBRE A CANETA=======|");
         System.out.println("\t\t|\t Modelo: " + this.getModelo()+"\t     |");
         System.out.println("\t\t|\t Ponta: " + this.getPonta()+"\t     |");
