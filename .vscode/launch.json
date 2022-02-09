@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Aula",
+            "request": "launch",
+            "mainClass": "poo.aula04.Aula",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aula04",
+            "request": "launch",
+            "mainClass": "poo.aula04.Aula04",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aula_03",
+            "request": "launch",
+            "mainClass": "poo.aula03.Aula_03",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "poo.exercicios.Main",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aula_02",
+            "request": "launch",
+            "mainClass": "poo.Aula_02",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
             "name": "Launch Principal",
             "request": "launch",
             "mainClass": "Estudos.jogo.Principal",
