@@ -8,6 +8,34 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "Etapa_técnica.Livraria.Main",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aleatorios",
+            "request": "launch",
+            "mainClass": "Etapa_técnica.Random.Aleatorios",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Random",
+            "request": "launch",
+            "mainClass": "Etapa_técnica.Random.Random",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "RPG.Main",
+            "projectName": "JAVA1_f77c481a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "poo.aula06.Main",
             "projectName": "JAVA1_f77c481a"
         },
